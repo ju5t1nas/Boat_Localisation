@@ -2,6 +2,8 @@
 
 This is extension of a fun project I did for the [MASM12](https://www.maths.lth.se/matstat/kurser/fms110mas222/) course at Lund University. It was quite nice to tinker with, so I decided to extend it. 
 
+(I'm also trying to get used to using git and writing nice and readable code. So, I'll train using this, feedback is welcome.)
+
 ## Project description
 
 Assume you are out fishing on a lake (or in an archipelago), whatever floats your boat. After an intense morning of fishing (I don't know how fishing works) you take a nap. You wake up several hours later, completely disoriented. You can safely assume that you have drifted around *quite* a lot. Due to currents and wind, we can assume the drift has zero mean, however variance can be assumed to be proportional to time. 
